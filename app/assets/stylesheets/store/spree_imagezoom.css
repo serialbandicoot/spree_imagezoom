@@ -10,9 +10,9 @@
 img, object, embed {max-width: none;}
 
 .zoomPad{
-	position:relative;
-	float: left;
-	z-index:99;
+	/*position:relative;*/
+	/*float: left;*/
+	/*z-index:99;*/
 	cursor:crosshair;
 }
 
