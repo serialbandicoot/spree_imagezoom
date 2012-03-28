@@ -1,6 +1,8 @@
 SpreeImagezoom
 ==============
 
+*** Forked from original ***
+
 Image zoom functionality for product photos in SpreeCommerce.
 
 See the TODO file
@@ -10,7 +12,7 @@ Installation
 
 To use install from git:
 
-    gem 'spree_imagezoom', :git => 'git://github.com/kunalchaudhari/spree_imagezoom.git'
+    gem 'spree_imagezoom', :git => 'git://github.com/samtreweek/spree_imagezoom.git'
 
 Now bundle up with:
 

@@ -7,11 +7,11 @@
   margin: 0 auto;
 }
 
-img, object, embed {max-width: none;}
+object, embed {max-width: none;}
 
 .zoomPad{
 	/*position:relative;*/
-	/*float: left;*/
+	/*float: right;*/
 	/*z-index:99;*/
 	cursor:crosshair;
 }
